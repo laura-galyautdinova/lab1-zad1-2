@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\laboratorium1\SamochodApp\bin\Debug\net8.0\SamochodApp.exe
+C:\Users\User\Desktop\laboratorium1\SamochodApp\bin\Debug\net8.0\SamochodApp.deps.json
+C:\Users\User\Desktop\laboratorium1\SamochodApp\bin\Debug\net8.0\SamochodApp.runtimeconfig.json
+C:\Users\User\Desktop\laboratorium1\SamochodApp\bin\Debug\net8.0\SamochodApp.dll
+C:\Users\User\Desktop\laboratorium1\SamochodApp\bin\Debug\net8.0\SamochodApp.pdb
+C:\Users\User\Desktop\laboratorium1\SamochodApp\obj\Debug\net8.0\SamochodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\laboratorium1\SamochodApp\obj\Debug\net8.0\SamochodApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\laboratorium1\SamochodApp\obj\Debug\net8.0\SamochodApp.AssemblyInfo.cs
+C:\Users\User\Desktop\laboratorium1\SamochodApp\obj\Debug\net8.0\SamochodApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\laboratorium1\SamochodApp\obj\Debug\net8.0\SamochodApp.dll
+C:\Users\User\Desktop\laboratorium1\SamochodApp\obj\Debug\net8.0\refint\SamochodApp.dll
+C:\Users\User\Desktop\laboratorium1\SamochodApp\obj\Debug\net8.0\SamochodApp.pdb
+C:\Users\User\Desktop\laboratorium1\SamochodApp\obj\Debug\net8.0\SamochodApp.genruntimeconfig.cache
+C:\Users\User\Desktop\laboratorium1\SamochodApp\obj\Debug\net8.0\ref\SamochodApp.dll
